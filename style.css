@@ -1,0 +1,25 @@
+body
+{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 45px;
+    font-family: Gabriola;
+}
+.song_name{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.note{
+    color: white;
+    font-size: 15px;
+    font-family: Century;
+}
+canvas
+{
+    margin-top: 100;
+    border-radius: 20px;
+}
